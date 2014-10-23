@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 4.4
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hastable", "Hastable.csproj", "{87AA9054-6D40-472C-AC63-336DF401F744}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87AA9054-6D40-472C-AC63-336DF401F744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AA9054-6D40-472C-AC63-336DF401F744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AA9054-6D40-472C-AC63-336DF401F744}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AA9054-6D40-472C-AC63-336DF401F744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal
